@@ -1,3 +1,6 @@
-## Hello World
+## Aiden Rosen's Website
 
-Hello!!
+Hello, and welcome to my website!  Please click one of the hyperlinks for more information about me.
+
+- [About Me](./about)
+- [My Projects](./projects.md)
