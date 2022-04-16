@@ -2,4 +2,4 @@ name: Aiden-Rosen-Website
 title: null
 plugins:
   - jemoji
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
