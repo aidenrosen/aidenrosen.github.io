@@ -1,4 +1,4 @@
-## Aiden Rosen's Website
+# Aiden Rosen's Website
 
 Hello, and welcome to my website!  Please click one of the hyperlinks for more information about me.
 
