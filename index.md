@@ -5,3 +5,5 @@ Hello, and welcome to my website!  Please click one of the hyperlinks for more i
 
 - [About Me](./about)
 - [My Projects](./projects.md)
+
+![Me](./assets/images/me.png)

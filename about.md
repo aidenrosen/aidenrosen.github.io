@@ -1,6 +1,6 @@
 # About Me
 
-[Home](./home)
+[Home](./index)
 
 - I am a Computer Science and Math major at Quinnipiac University, graduating in 2024
 
@@ -10,5 +10,9 @@ it could be.  About a year later, I doubled a Computer Science major on top of m
 
 - My programming experience currently is Scala, Java, and Android Development in Java.
 - My favorite hobby is watching and playing basketball.  My favorite team is the New York Knicks.  I've also been playing video games since I was a kid.
+- I also love music!  I've played trumpet since I was in 4th grade, and also know guitar and piano.
+
 - I have a dog named Chase.  He's about 10 weeks old (as of April 2022).
+
+![Chase](./assets/images/chase.png)
 
